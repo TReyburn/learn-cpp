@@ -8,3 +8,6 @@ add_executable(test
 
 add_executable(test-2
         test-2/src/main.cpp)
+
+add_executable(fave-num
+        fave-num/src/main.cpp)
