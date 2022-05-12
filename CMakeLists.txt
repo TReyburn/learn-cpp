@@ -11,3 +11,6 @@ add_executable(test-2
 
 add_executable(fave-num
         fave-num/src/main.cpp)
+
+add_executable(say-hi
+        say-hi/src/main.cpp)
