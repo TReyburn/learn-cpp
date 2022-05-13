@@ -2,11 +2,9 @@
 
 using namespace std;
 
-void say_hi() {
-    cout << "Hi Frank";
-}
+void say_hi() { cout << "Hi Frank"; }
 
 int main() {
-    say_hi();
-    return 0;
+  say_hi();
+  return 0;
 }
