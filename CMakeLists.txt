@@ -14,3 +14,6 @@ add_executable(fave-num
 
 add_executable(say-hi
         say-hi/src/main.cpp)
+
+add_executable(sqft
+        sqft/src/main.cpp)
