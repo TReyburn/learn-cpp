@@ -33,3 +33,6 @@
 
 # CMake debug
 cmake-build-debug
+
+#conan
+build
